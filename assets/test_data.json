@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": "e001",
+      "name": "Wireless Headphones Pro",
+      "category": "electronics",
+      "price": 299.99,
+      "stockStatus": "inStock",
+      "quantity": 45,
+      "isFeatured": true,
+      "hasDiscount": false,
+      "lastRestocked": "2025-01-06T10:00:00Z",
+      "hasWarranty": true,
+      "warrantyDays": 365
+    },
+    {
+      "id": "e002",
+      "name": "Smart Watch Ultra",
+      "category": "electronics",
+      "price": 499.99,
+      "stockStatus": "lowStock",
+      "quantity": 8,
+      "isFeatured": false,
+      "hasDiscount": true,
+      "lastRestocked": "2024-12-27T10:00:00Z",
+      "hasWarranty": true,
+      "warrantyDays": 180
+    },
+    {
+      "id": "e003",
+      "name": "Bluetooth Speaker",
+      "category": "electronics",
+      "price": 89.99,
+      "stockStatus": "outOfStock",
+      "quantity": 0,
+      "isFeatured": false,
+      "hasDiscount": false,
+      "lastRestocked": "2024-12-12T10:00:00Z",
+      "hasWarranty": false,
+      "warrantyDays": 100
+    },
+    {
+      "id": "c001",
+      "name": "Premium Cotton T-Shirt",
+      "category": "clothing",
+      "price": 29.99,
+      "stockStatus": "inStock",
+      "quantity": 200,
+      "isFeatured": false,
+      "hasDiscount": true,
+      "lastRestocked": "2025-01-09T10:00:00Z",
+      "isSeasonalItem": true,
+      "availableSizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "c002",
+      "name": "Winter Jacket Deluxe",
+      "category": "clothing",
+      "price": 189.99,
+      "stockStatus": "outOfStock",
+      "quantity": 0,
+      "isFeatured": true,
+      "hasDiscount": false,
+      "lastRestocked": "2024-11-27T10:00:00Z",
+      "isSeasonalItem": true,
+      "availableSizes": ["M", "L"]
+    },
+    {
+      "id": "c003",
+      "name": "Summer Dress Collection",
+      "category": "clothing",
+      "price": 79.99,
+      "stockStatus": "lowStock",
+      "quantity": 15,
+      "isFeatured": true,
+      "hasDiscount": true,
+      "lastRestocked": "2025-01-01T10:00:00Z",
+      "isSeasonalItem": true,
+      "availableSizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "f001",
+      "name": "Organic Honey 500g",
+      "category": "food",
+      "price": 12.99,
+      "stockStatus": "inStock",
+      "quantity": 80,
+      "isFeatured": false,
+      "hasDiscount": false,
+      "lastRestocked": "2025-01-04T10:00:00Z",
+      "expiryDate": "2025-07-10T00:00:00Z",
+      "isPerishable": false
+    },
+    {
+      "id": "f002",
+      "name": "Fresh Strawberries 250g",
+      "category": "food",
+      "price": 4.99,
+      "stockStatus": "lowStock",
+      "quantity": 20,
+      "isFeatured": true,
+      "hasDiscount": false,
+      "lastRestocked": "2025-01-10T22:00:00Z",
+      "expiryDate": "2025-01-14T00:00:00Z",
+      "isPerishable": true
+    },
+    {
+      "id": "f003",
+      "name": "Artisan Coffee Beans 1kg",
+      "category": "food",
+      "price": 34.99,
+      "stockStatus": "outOfStock",
+      "quantity": 0,
+      "isFeatured": false,
+      "hasDiscount": true,
+      "lastRestocked": "2024-12-22T10:00:00Z",
+      "expiryDate": "2025-03-12T00:00:00Z",
+      "isPerishable": false
+    }
+  ]
+}
